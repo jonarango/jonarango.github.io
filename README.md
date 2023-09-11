@@ -1,2 +1,2 @@
 # main 
- Check it here: https://itsxnoobx.github.io/web
+ Check it here: https://itsxnoobx.github.io
